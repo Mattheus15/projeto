@@ -33,7 +33,7 @@ body * {
 #container {
   padding: 0 24px;
   width: 100%px;
-  max-width: 588px;
+  max-width: 588px; 
   margin: 56px auto 0px;
 }
 #profile {
